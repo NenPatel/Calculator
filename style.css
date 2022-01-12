@@ -4,7 +4,7 @@
 }
 body{
     /* background-color: rgb(179, 255, 0); */
-    background-image: url("/image1.jpg");
+    background-image: url("image1.jpg");
 }
 h1{
     font-size: 50px;
