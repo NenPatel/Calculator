@@ -1,2 +1,6 @@
 # Calculator
-Calculator build using HTML, CSS and JavaScript
+I have created a Calculator using HTML, CSS and JavaScript.
+
+TAP TO VIEW THE PROJECT - 
+https://nenpatel.github.io/Calculator/
+
